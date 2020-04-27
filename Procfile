@@ -1,1 +1,1 @@
-web: gunicorn jroget.wsgi --log-file -
+web: gunicorn jroget.wsgi
