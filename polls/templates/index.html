@@ -10,14 +10,23 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
+    <link rel="stylesheet" href="./scss/_alert.scss">
+
     <title>JrogeT</title>
 </head>
 
-<body>
+<body class="bg-secondary">
     {%block body%}
     {%endblock%}
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <footer>
+        <div class="fixed-bottom bg-dark text-info text-center">
+            <small>
+                Jorge Rodrigo Torrez Aramayo
+            </small>
+        </div>
+    </footer>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
         integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
         crossorigin="anonymous"></script>
@@ -27,6 +36,25 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
         integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
         crossorigin="anonymous"></script>
+    <!-- Modal -->
+    <div class="modal fade" id="modal-top" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content bg-info border border-white rounded">
+                <div class="modal-header">
+                    {%block modal-header%}
+                    {%endblock%}
+                </div>
+                <div class="modal-body">
+                    {%block modal-body%}
+                    {%endblock%}
+                </div>
+                <div class="modal-footer">
+                    {%block modal-footer%}
+                    {%endblock%}
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>

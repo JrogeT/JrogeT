@@ -1,6 +1,24 @@
 {% extends "index.html" %}
 {%block body%}
-<div class="text-center">
-    <h1>HI :D</h1>
+<div class="container swatch-indigo">
+    <div class="row">
+        <div class="col">
+            <h1 class="text-center">It's me! Jroge! :D</h1>
+        </div>
+    </div>
+</div>
+{%endblock%}
+{%block modal-header%}
+<h5 class="mx-auto">Hey!</h5>
+{%endblock%}
+{%block modal-body%}
+<h5 class="text-center">message :D</h5>
+{%endblock%}
+{%block modal-footer%}
+<div class="col text-left">
+    <button class="btn btn-outline-danger" data-dismiss="modal">Close</button>
+</div>
+<div class="col text-right">
+    <button class="btn btn-outline-light">Ok</button>
 </div>
 {%endblock%}
