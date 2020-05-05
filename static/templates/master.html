@@ -10,7 +10,14 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
         integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
 
-    <link rel="stylesheet" href="./scss/_alert.scss">
+    <!-- Fira Code Font -->
+    <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap" rel="stylesheet">
+
+    <style>
+        body {
+            font-family: 'Fira Code', monospace;
+        }
+    </style>
 
     <title>JrogeT</title>
 </head>
@@ -20,11 +27,34 @@
     {%endblock%}
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <footer>
-        <div class="fixed-bottom bg-dark text-white text-center">
-            <small>
-                Jorge Rodrigo Torrez Aramayo
-            </small>
+    {%load static%}
+    <footer class="fixed-bottom bg-dark text-white text-center">
+        <div class="row">
+            <div class="col align-self-center">
+                <a href="https://wa.me/59175364642" target="_blank">
+                    <img src="{%static 'images/whatsapp.png'%}" width="40" height="40">
+                </a>
+            </div>
+            <div class="col align-self-center">
+                <a href="https://www.github.com/JrogeT" target="_blank">
+                    <img src="{%static 'images/github.png'%}" width="40" height="40">
+                </a>
+            </div>
+            <div class="col align-self-center">
+                <small>
+                    Jorge Rodrigo Torrez Aramayo
+                </small>
+            </div>
+            <div class="col align-self-center">
+                <a href="https://www.facebook.com/JorgeRodrigoTorrezAramayo" target="_blank">
+                    <img src="{%static 'images/facebook.png'%}" width="40" height="40">
+                </a>
+            </div>
+            <div class="col align-self-center">
+                <a href="https://www.instagram.com/jroge_t" target="_blank">
+                    <img src="{%static 'images/instagram.png'%}" width="40" height="40">
+                </a>
+            </div>
         </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"

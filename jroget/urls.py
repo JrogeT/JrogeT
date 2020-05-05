@@ -16,6 +16,8 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 from django.shortcuts import redirect
+from django.conf.urls import handler404
+
 from welcome.views import *
 from university.views import *
 from semester.views import *
@@ -31,3 +33,5 @@ urlpatterns = [
     path('university/', university_index),
     path('university/semester/<int:semester_number>', semester_index),
 ]
+handler404 = 'welcome.views.error_404_view'
+
