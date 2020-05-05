@@ -15,8 +15,19 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import include, path
+from django.shortcuts import redirect
+from welcome.views import *
+from university.views import *
+from semester.views import *
+
+def redirect_view(request):
+    response = redirect('welcome/')
+    return response
 
 urlpatterns = [
-    path('', include('polls.urls')),
+    path('', redirect_view),
     path('admin/', admin.site.urls),
+    path('welcome/', welcome_index),
+    path('university/', university_index),
+    path('university/semester/<int:semester_number>', semester_index),
 ]
