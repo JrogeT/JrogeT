@@ -19,8 +19,7 @@ from django.shortcuts import redirect
 from django.conf.urls import handler404
 
 from welcome.views import *
-from university.views import *
-from semester.views import *
+from cv.views import *
 
 def redirect_view(request):
     response = redirect('welcome/')
@@ -30,8 +29,9 @@ urlpatterns = [
     path('', redirect_view),
     path('admin/', admin.site.urls),
     path('welcome/', welcome_index),
-    path('university/', university_index),
-    path('university/semester/<int:semester_number>', semester_index),
+    path('cv/', cv_index),
+    # path('university/', university_index),
+    # path('university/semester/<int:semester_number>', semester_index),
 ]
 handler404 = 'welcome.views.error_404_view'
 

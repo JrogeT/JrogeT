@@ -1,5 +1,8 @@
 #!/usr/bin/env python
-"""Django's command-line utility for administrative tasks."""
+# Django's command-line utility for administrative tasks.
+# c:/mongodb/server/4.2/bin/mongod
+# c:/mongodb/server/4.2/bin/mongo
+
 import os
 import sys
 
