@@ -1,7 +1,9 @@
 # Hi! I'm Jroge :D
 
-[a View cv](http://www.jroget.website/cv)
-[a University projects](https://github.com/Jroge-UAGRM)
+- [View cv](http://www.jroget.website/cv)
+
+
+- [University projects](https://github.com/Jroge-UAGRM)
 
 
 
