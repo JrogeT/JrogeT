@@ -1,3 +1,11 @@
+# Hi! I'm Jroge :D
+
+[a View cv](http://www.jroget.website/cv)
+[a University projects](https://github.com/Jroge-UAGRM)
+
+
+
+## To run this project:
 HEROKU:
 pip install gunicorn
 pip install django-heroku
