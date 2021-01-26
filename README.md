@@ -13,5 +13,5 @@
 
 - Programming languages
 
-  ![L](https://github-readme-stats.vercel.app/api/top-langs/?username=jroget&hide=html,css,glsl,c,c++)
+  ![L](https://github-readme-stats.vercel.app/api/top-langs/?username=jroget&hide=css,glsl,c,c++)
 
