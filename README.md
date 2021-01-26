@@ -9,9 +9,3 @@
 - Activity
 
   ![S](https://github-readme-stats.vercel.app/api?username=jroget&show_icons=true)
-
-
-- Programming languages
-
-  ![L](https://github-readme-stats.vercel.app/api/top-langs/?username=jroget&langs_count=10)
-
