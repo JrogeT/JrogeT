@@ -8,10 +8,10 @@
 
 - Activity
 
-  [!St](https://github-readme-stats.vercel.app/api?username=jroget&show_icons=true)
+  ![S](https://github-readme-stats.vercel.app/api?username=jroget&show_icons=true)
 
 
 - Programming languages
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+  ![L](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 
