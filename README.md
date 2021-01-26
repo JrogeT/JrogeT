@@ -13,4 +13,5 @@
 
 - Programming languages
 
-  [!Ln](https://github-readme-stats.vercel.app/api/top-langs/?username=jroget)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
+
