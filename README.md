@@ -1,6 +1,6 @@
 # Hi! I'm Jroge :D
 
-- [View cv](http://www.jroget.website/cv)
+- [Web page! :D](http://www.jroget.website)
 
 
 - [University projects](https://github.com/Jroge-UAGRM)
