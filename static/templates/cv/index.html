@@ -7,17 +7,15 @@
     </button>
 </a>
 <div class="container h-100">
-    <!-- <iframe src="https://docs.google.com/viewer?srcid=[identificador]&pid=explorer&efh=false&a=v&chrome=false&embedded=true"> -->
-    <!-- <iframe width="100%" height="100%"
-        src="https://docs.google.com/viewer?srcid=1MErzgznLG9nRhh-nzJXl-d4AQFK5s5909E4rTqlFXeo&pid=explorer&efh=false&a=v&chrome=false&embedded=true">
-    </iframe> -->
     <div class="row h-75">
         <iframe src="{%static 'JorgeTorrez-CV.pdf'%}" width="100%" height="100%" frameborder="5"></iframe>
     </div>
     <div class="row h-25">
-        <a class="btn btn-light m-auto" href="{%static 'JorgeTorrez-CV.pdf'%}" download>
-            Download
-        </a>
+        <h3 class="m-auto">
+            <a class="badge bg-light text-dark" href="{%static 'JorgeTorrez-CV.pdf'%}" download>
+                Download
+            </a>
+        </h3>
     </div>
 </div>
 {%endblock%}

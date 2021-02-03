@@ -20,6 +20,7 @@ from django.conf.urls import handler404
 
 from welcome.views import *
 from cv.views import *
+from personal_calendar.views import *
 
 def redirect_view(request):
     response = redirect('welcome/')
@@ -30,6 +31,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('welcome/', welcome_index),
     path('cv/', cv_index),
+    path('calendar/', personal_calendar_index),
     # path('university/', university_index),
     # path('university/semester/<int:semester_number>', semester_index),
 ]
