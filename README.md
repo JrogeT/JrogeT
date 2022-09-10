@@ -4,10 +4,10 @@
 
 ### [University projects](https://github.com/Jroge-UAGRM)
 
-### Coding
-
-  ![S](https://github-readme-stats.vercel.app/api?username=jroget&border_color=ffffff&show_icons=true)
-
+### Coding (Last 7 days activity)
+  
+  ![S](https://github-readme-stats.vercel.app/api?username=jroget&border_color=ffffff&show_icons=true)  
+  
   ![S](https://github-readme-stats.vercel.app/api/wakatime?username=jroget&layout=compact&border_color=ffffff)
 
   ![S](https://wakatime.com/share/@JrogeT/87761cc3-e6da-4a9a-bcd1-f2e0c0efbcb4.svg)
