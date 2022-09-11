@@ -6,11 +6,12 @@
 
 ### Coding (Last 7 days activity)
   
-  ![S](https://github-readme-stats.vercel.app/api?username=jroget&border_color=ffffff&show_icons=true)  
-  
   ![S](https://github-readme-stats.vercel.app/api/wakatime?username=jroget&layout=compact&border_color=ffffff)
-
-  ![S](https://wakatime.com/share/@JrogeT/87761cc3-e6da-4a9a-bcd1-f2e0c0efbcb4.svg)
+ 
+### Coding (Over all time)
+  Coding hours: ![](https://wakatime.com/badge/user/cb43f811-818f-4e50-8125-d24616af4cbe.svg)
+  
+  ![S](https://wakatime.com/share/@JrogeT/39bd4029-5c44-47da-99d6-16e5e6e28975.png)
 
 
 ### My VS Code:
