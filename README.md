@@ -9,8 +9,7 @@
   ![S](https://wakatime.com/share/@JrogeT/23562795-6d5f-43ed-ab50-add61149c334.png)
  
 ### Coding (Over all time)
-  Coding hours:
-  
+
   ![S](https://wakatime.com/share/@JrogeT/d3220f3e-ccf0-4a0e-b1c4-d7a193d89b3d.png)
 
 
