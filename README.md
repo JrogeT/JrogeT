@@ -6,7 +6,7 @@
 
 ### Coding (Last 7 days activity)
   
-  ![S](https://github-readme-stats.vercel.app/api/wakatime?username=jroget)
+  ![S](https://wakatime.com/share/@JrogeT/531c16a1-c4d0-4f45-9578-aa311fd4156c.svg)
  
 ### Coding (Over all time)
   Coding hours: ![](https://wakatime.com/badge/user/cb43f811-818f-4e50-8125-d24616af4cbe.svg)
