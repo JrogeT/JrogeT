@@ -9,9 +9,9 @@
   ![S](https://wakatime.com/share/@JrogeT/23562795-6d5f-43ed-ab50-add61149c334.png)
  
 ### Coding (Over all time)
-  Coding hours: ![](https://wakatime.com/badge/user/cb43f811-818f-4e50-8125-d24616af4cbe.svg)
+  Coding hours:
   
-  ![S](https://wakatime.com/share/@JrogeT/39bd4029-5c44-47da-99d6-16e5e6e28975.png)
+  ![S](https://wakatime.com/share/@JrogeT/d3220f3e-ccf0-4a0e-b1c4-d7a193d89b3d.png)
 
 
 ### My VS Code:
