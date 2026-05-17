@@ -6,7 +6,7 @@
 
 ### Coding (Last 7 days activity)
   
-  ![S](https://wakatime.com/share/@JrogeT/23562795-6d5f-43ed-ab50-add61149c334.png)
+  ![S](https://wakatime.com/share/@JrogeT/a817a46a-70fc-486a-9a14-f5ca2d4c6e65.svg)
  
 ### Coding (Over all time)
 
